@@ -1,0 +1,6 @@
+{
+  "name": "StreamX IPTV - OTT Live TV & VOD Player",
+  "description": "StreamX IPTV is a modern, OTT Navigator inspired streaming web platform featuring HLS playback, M3U playlist & XMLTV EPG management, categories, search, favorites, and TV navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
